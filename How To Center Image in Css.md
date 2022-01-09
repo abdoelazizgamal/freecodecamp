@@ -115,7 +115,7 @@ div {
 }
 ```
 
-خاصية ` align-items : center`   لا تقوم بتوسيط موضع العنصر أفقيًا إلا عند استخدامها مع خاصية ` display : flex `
+خاصية ` align-items : center`   لا تقوم بتوسيط موضع العنصر رأسيًا إلا عند استخدامها مع خاصية ` display : flex `
 ### Position: Absolute & Transform Properties
 
 طريقة أخري للمحاذاة الرأسية عن طريق استخدام خاصية ال` position ` و خاصية ال `transform ` معًا ، هذه الطريقة تحتاج إلي تركيز لذا سنتبع بضع خطوات بسيطة
@@ -163,6 +163,7 @@ img {
 ```
 
 هناك طرق أخرى لتوسيط العناصر أفقيًا ورأسيًا ، لكنني أوضحت أكثرها شيوعًا. آمل أن يساعدك هذا المنشور في فهم كيفية محاذاة صورك في وسط الصفحة أو العنصر 
+
 **If you want to learn more about Web Development, feel free to visit my  [Youtube Channel](https://www.youtube.com/channel/UC1EgYPCvKCXFn8HlpoJwY3Q?view_as=subscriber)  for more.**
 
 شكرا لقرائتك!
