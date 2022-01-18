@@ -164,7 +164,6 @@ img {
 
 هناك طرق أخرى لتوسيط العناصر أفقيًا ورأسيًا ، لكنني أوضحت أكثرها شيوعًا. آمل أن يساعدك هذا المنشور في فهم كيفية محاذاة صورك في وسط الصفحة أو العنصر 
 
-**If you want to learn more about Web Development, feel free to visit my  [Youtube Channel](https://www.youtube.com/channel/UC1EgYPCvKCXFn8HlpoJwY3Q?view_as=subscriber)  for more.**
 
 شكرا لقرائتك!
 
@@ -178,26 +177,3 @@ Front-end Developer // Follow Me on Youtube: https://bit.ly/3dBiTUT
 
 ----------
 
-If you read this far, tweet to the author to show them you care.  Tweet a thanks
-
-Learn to code for free. freeCodeCamp's open source curriculum has helped more than 40,000 people get jobs as developers.  [Get started](https://www.freecodecamp.org/learn/)
-
-freeCodeCamp is a donor-supported tax-exempt 501(c)(3) nonprofit organization (United States Federal Tax Identification Number: 82-0779546)
-
-Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.
-
-Donations to freeCodeCamp go toward our education initiatives and help pay for servers, services, and staff.
-
-You can  [make a tax-deductible donation here](https://www.freecodecamp.org/donate/).
-
-Trending Guides
-
-[What is JavaScript?](https://www.freecodecamp.org/news/what-is-javascript-javascript-code-explained-in-plain-english/)[Linux List Processes](https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/)[Web Page Text Editor](https://www.freecodecamp.org/news/web-page-text-editor-how-to-open-html-code-in-mac-textedit/)[What is Open Source?](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/)[Sim Swapping Attacks](https://www.freecodecamp.org/news/protect-yourself-against-sim-swapping-attacks/)[RNG Meaning in Gaming](https://www.freecodecamp.org/news/rng-meaning-what-does-rng-stand-for-in-gaming/)[Model View Controller](https://www.freecodecamp.org/news/the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained/)[Front End Development](https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/)[Full Stack Developer?](https://www.freecodecamp.org/news/what-is-a-full-stack-developer-back-end-front-end-full-stack-engineer/)[JavaScript Switch Case](https://www.freecodecamp.org/news/javascript-switch-case-js-switch-statement-example/)
-
-[Bash Sleep](https://www.freecodecamp.org/news/bash-sleep-how-to-make-a-shell-script-wait-n-seconds-example-command/)[Bash Array](https://www.freecodecamp.org/news/bash-array-how-to-declare-an-array-of-strings-in-a-bash-script/)[What is a CV?](https://www.freecodecamp.org/news/what-is-a-cv-and-how-is-it-different-from-a-resume/)[Coding Programs](https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/)[How to Exit Vim](https://www.freecodecamp.org/news/how-to-exit-vim/)[HTML Line Break](https://www.freecodecamp.org/news/html-line-break-how-to-break-a-line-with-the-html-br-tag/)[C# String to Int](https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-int-in-c-tutorial-with-example-code/)[Logical fallacies](https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/)[JavaScript Online](https://www.freecodecamp.org/news/javascript-online-html-css-js-code-editor-list-browser-ide-tools/)[SQL Case Statement](https://www.freecodecamp.org/news/sql-case-statement-tutorial-with-when-then-clause-example-queries/)
-
-[JavaScript toLowerCase](https://www.freecodecamp.org/news/javascript-tolowercase-how-to-convert-a-string-to-lowercase-and-uppercase-in-js/)[Angular NgClass Example](https://www.freecodecamp.org/news/angular-ngclass-example/)[SQL Aggregate Functions](https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/)[What is Web Development?](https://www.freecodecamp.org/news/what-is-web-development-how-to-become-a-web-developer-career-path/)[Best Way to Learn Python](https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/)
-
-[Word Count in Google Docs](https://www.freecodecamp.org/news/word-count-in-google-docs-tutorial-counting-words-and-characters-in-a-google-doc-or-word-file/)[Node Environment Variables](https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/)[Event Viewer in Windows 10](https://www.freecodecamp.org/news/event-viewer-how-to-access-the-windows-10-activity-log/)[Combine 1st/Last Name Excel](https://www.freecodecamp.org/news/combine-first-last-names-excel/)[JavaScript if-else & if-then](https://www.freecodecamp.org/news/javascript-if-else-and-if-then-js-conditional-statements/)
-
-	[About](https://www.freecodecamp.org/news/about/)[Alumni Network](https://www.linkedin.com/school/free-code-camp/people/)[Open Source](https://github.com/freeCodeCamp/)[Shop](https://www.freecodecamp.org/shop/)[Support](https://www.freecodecamp.org/news/support/)[Sponsors](https://www.freecodecamp.org/news/sponsors/)[Academic Honesty](https://www.freecodecamp.org/news/academic-honesty-policy/)[Code of Conduct](https://www.freecodecamp.org/news/code-of-conduct/)[Privacy Policy](https://www.freecodecamp.org/news/privacy-policy/)[Terms of Service](https://www.freecodecamp.org/news/terms-of-service/)[Copyright Policy](https://www.freecodecamp.org/news/copyright-policy/)
